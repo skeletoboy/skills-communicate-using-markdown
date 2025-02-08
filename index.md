@@ -4,3 +4,6 @@ added heading
 ``` java
 String word = chicken;
 ```
+- [x] Turn on Github pages
+- [ ] Outline my profile
+- [ ] Hello world!
